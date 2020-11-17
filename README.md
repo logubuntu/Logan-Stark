@@ -3,7 +3,6 @@
 
 #### I'm a Data Scientist based in Provo, Utah.
 
-- 🏢 I'm currently working full-time with awesome peeps at **Teladoc Health**
 - ⚙️ I use daily: `python`, `RegEx`, `.sql`
 - 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**
 - 🌱 Learning more about and studying: **Open Source, AWS, CS Algorithms, Deep Learning**
