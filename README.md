@@ -4,7 +4,6 @@
 #### I'm a Data Scientist based in Provo, Utah.
 
 - ⚙️ I use daily: `python`, `RegEx`, `.sql`
-- 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**
 - 🌱 Learning more about and studying: **Open Source, AWS, CS Algorithms, Deep Learning**
 - 💬 Ping me about: **Machine learning**, **social media**, **Data Modeling**, **mentorship**, **Guitar**
 - 📫 Reach me asap: Logawtu@gmail.com
